@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HilaryOnyejekwe
-- 👀 I’m interested programming
-- 🌱 I’m currently learning fullstack web development
+- 👀 I’m a front end developer
+- 🌱 I’m a wordpress developer and an SEO professional
 - 💞️ I’m looking to collaborate on simple projects 
 - 📫 How to reach me via mail, hilaryonyejekwe@gmail.com
 
